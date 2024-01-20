@@ -1,7 +1,7 @@
 {
-  "name": "mceasy-interview",
+  "name": "boilerplate-express-ts",
   "version": "1.0.0",
-  "description": "mceasy interview case",
+  "description": "boilerplate-express-ts",
   "main": "index.js",
   "scripts": {
     "start": "tsc && node dist/index.js"
